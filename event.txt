@@ -1,0 +1,159 @@
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Fluffy',
+'1995-05-15',
+'litter',
+'4 kittens, 3 female, 1 male'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Buffy',
+'1993-06-23',
+'litter',
+'5 puppies, 2 female, 3 male'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Buffy',
+'1994-06-19',
+'litter',
+'3 puppies, 3 female'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Chirpy',
+'1999-03-21',
+'vet',
+'needed beak straightened'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Slim',
+'1997-08-03',
+'vet',
+'broken rib'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Bowser',
+'1991-10-12',
+'kennel',
+NULL
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Fang',
+'1991-10-12',
+'kennel',
+NULL
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Fang',
+'1998-08-28',
+'birthday',
+'gave him a new chew toy'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Claws',
+'1998-03-17',
+'birthday',
+'gave him a new flea collar'
+);
+
+INSERT INTO event
+(
+name,
+date,
+type,
+remark
+)
+
+VALUES
+(
+'Whistler',
+'1998-12-09',
+'birthday',
+'first birthday'
+);
